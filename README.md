@@ -1,7 +1,7 @@
 DEMO
  https://hogjiv.github.io/todolist/
 <p align="center">
-  <img src="../demo2" width="350" height="400" title="hover text">
+  <img src="demo2" width="350" height="400" title="hover text">
   
 </p>
 

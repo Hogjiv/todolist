@@ -1,6 +1,8 @@
 DEMO
  https://hogjiv.github.io/todolist/
 
+A simple Todo list
+You can write, edit, check and delete your notes 
 # list
 
 ## Project setup

@@ -4,6 +4,7 @@ DEMO
   <img src="demo2" width="350" height="400" title="hover text">
   
 </p>
+![demo1](https://user-images.githubusercontent.com/104524265/230628616-e25a2a45-d509-423b-bec9-7e592c7f847f.png)
 
 
 A simple Todo list

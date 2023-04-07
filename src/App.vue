@@ -5,15 +5,11 @@
   </div>
 </template>
 
-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@700&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@700&family=JetBrains+Mono:wght@400;500;800&display=swap');
-
-
 
 .app-wrapper {
   display: flex;
@@ -54,5 +50,4 @@ nav a.router-link-exact-active {
   color: #ff0808;
   text-decoration: none;
 }
-
 </style>

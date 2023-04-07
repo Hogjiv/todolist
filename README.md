@@ -1,5 +1,10 @@
 DEMO
  https://hogjiv.github.io/todolist/
+<p align="center">
+  <img src="D:\Ira\Program\ToDoList" width="350" height="400" title="hover text">
+  
+</p>
+
 
 A simple Todo list
 You can write, edit, check and delete your notes 

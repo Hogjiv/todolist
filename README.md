@@ -8,3 +8,4 @@
 A simple Todo list
 You can write, edit, check and delete your notes 
 Just write and push Enter!
+Mobile version will be soon =) 
